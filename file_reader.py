@@ -1,5 +1,5 @@
 """
-
+File reading class
 """
 
 class FileReader:
